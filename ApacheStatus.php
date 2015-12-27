@@ -4,6 +4,7 @@
  * Class ApacheStatus
  *
  * Grabs server status information for given host. Uses curl to grab /server-status/?auto
+ * @license http://opensource.org/licenses/MIT MIT License
  */
 class ApacheStatus
 {
